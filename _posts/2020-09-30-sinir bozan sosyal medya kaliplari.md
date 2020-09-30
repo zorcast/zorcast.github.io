@@ -8,7 +8,7 @@ description: "bu bölümde anlamsız sosyal medya kalıplarını ard arda sıral
 duration: "5:02" 
 length: "302"
 explicit: "no" 
-keywords: "mash-up, sosyal medya, komedi, podcast"
+keywords: sosyal medya, komedi, podcast"
 block: "no" 
 voices: ""
 ---
