@@ -22,7 +22,7 @@ layout: default
         </div>            
         </div>
     
-    {% for post in site.posts offset:1 %}
+    {% for post in paginator.posts offset:1 %}
         <div class="cards">
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
