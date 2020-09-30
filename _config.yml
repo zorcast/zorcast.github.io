@@ -1,16 +1,16 @@
-title: BorCast
-email: borafirlangec@gmail.com
-description: "Borfirbora durmuyor, PodCast işine de el atıyor. Teknolojik gelişmelerden günlük yaşam muhabbetlerine, oyunlardan edebi eserlere varan geniş yelpazede hem tekli hem konuklu sohbetler gerçekleştiriyor, eğitimler veriyor. Hem eğlendiriyor, hem bilgilendiriyor hem de bildiklerini aktarıyor. Dinleyelim bakalım Borfirbora, BorCast ile bizlere neler neler anlatıyor!"
-subtitle: "Bir Bora FIRLANGEÇ söyleşisi"
+title: Zorunlu PodCast
+email: ozguraltinok83@gmail.com
+description: "eğitici ve öğretici kişisel podcast serime hoşgeldiniz."
+subtitle: "Kendisi sorunlu, dinlenmesi zorunlu podcast"
 lang: tr-tr
-author: Bora FIRLANGEÇ
+author: Özgür ALTINOK
 copyright: "&#xA9; 2020"
-baseurl: "/borcast" # the subpath of your site, e.g. /blog
-url: "https://borfirbora.com" # the base hostname & protocol for your site
-twitter_username: borfirbora
-github_username: borfirbora
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zorcast.github.io" # the base hostname & protocol for your site
+twitter_username: ozguraltinok1
+github_username: zorcast
 
-permalink: /bolum/:title.html
+permalink: /:title.html
 
 #Timezone
 timezone: Europe/Istanbul

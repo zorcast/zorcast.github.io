@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "BorCast hakkında"
+title: "Zorunlu Podcast hakkında"
 permalink: /hakkinda
 ---
 
