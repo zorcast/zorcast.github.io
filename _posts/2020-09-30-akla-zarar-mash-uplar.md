@@ -8,7 +8,7 @@ description: "bu bölümde efsane mash-up'lara kulak veriyoruz. mash up sanat m�
 duration: "6:33" 
 length: "393"
 explicit: "no" 
-keywords: "mash-up, alka zarar, komedi, podcast"
+keywords: "mash-up, akla zarar, komedi, podcast"
 block: "no" 
 voices: ""
 ---
