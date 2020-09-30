@@ -32,6 +32,20 @@ layout: default
         <a href="{{ post.file }}" class="button button-primary" download="{{ post.title }}">{{ post.title }} bölümünü indir</a>    
     </div>
     {% endfor %}
+    {% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Daha Yeni Bölümler</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Daha Eski Bölümler &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
     
 </div>
 
