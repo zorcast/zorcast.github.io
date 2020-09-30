@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{{ site.description }}
+
+<div class="card-grid">
+<!--     -->
+    
+    {% assign first_post = site.posts.first %}
+    <div class="cards first">
+        <h1 class="label reversed">Yeni Bölüm</h1>
+        <div class="center-content">
+            <div class="seven columns">
+                <h2><a class="post-link" href="{{ first_post.url | prepend: site.baseurl }}">{{ first_post.title }}</a></h2>
+                
+                <p class="meta">{{ first_post.date | date: "%d.%m.%Y" }}</p>
+                <p>{{ first_post.summary }} </p> 
+            </div>
+            <div class="four columns center-content">
+                <a href="{{ first_post.file }}" class="button button-primary" download="{{ first_post.title }}">{{ first_post.title }} bölümünü indir</a>    
+            </div>
+        </div>            
+        </div>
+    
+    {% for post in site.posts offset:1 %}
+        <div class="cards">
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p class="meta">{{ post.date | date: "%d.%m.%Y" }}</p>
+        <p>{{ post.summary }} </p>
+        <a href="{{ post.file }}" class="button button-primary" download="{{ post.title }}">{{ post.title }} bölümünü indir</a>    
+    </div>
+    {% endfor %}
+    
+</div>
+
+<div class="container center-content extra-padding">
+</div>

@@ -1,0 +1,17 @@
+---
+---
+
+---
+layout: post
+title: ""
+date: yyyy-aa-gg ss:dd:ss +3000
+file: 
+summary: ""
+description: ""
+duration: "dd:ss" 
+length: ""
+explicit: "no" 
+keywords: ""
+block: "no" 
+voices: ""
+---
