@@ -10,7 +10,7 @@ length: "289"
 explicit: "no" 
 keywords: blindness, faq, görme engelli, komedi, podcast"
 block: "no" 
-voices: ""
+
 ---
 
 blog metni

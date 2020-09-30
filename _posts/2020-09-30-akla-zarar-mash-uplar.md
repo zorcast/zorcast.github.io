@@ -10,7 +10,7 @@ length: "393"
 explicit: "no" 
 keywords: "mash-up, akla zarar, komedi, podcast"
 block: "no" 
-voices: ""
+
 ---
 
 blog metni

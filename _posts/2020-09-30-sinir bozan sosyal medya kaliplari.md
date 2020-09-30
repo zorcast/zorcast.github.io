@@ -10,7 +10,7 @@ length: "302"
 explicit: "no" 
 keywords: sosyal medya, komedi, podcast"
 block: "no" 
-voices: ""
+
 ---
 
 blog metni

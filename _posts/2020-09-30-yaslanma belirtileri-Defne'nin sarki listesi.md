@@ -1,0 +1,15 @@
+---
+layout: post
+title: "yaslanma belirtileri-Defne'nin sarki listesi"
+date: 2020-09-30 15:26:32 +3000
+file: https://archive.org/download/zorcast/ep5.mp3
+summary: "bu bölümde, 37 yaşın farkındalığıyla yavaş yavaş anlaşılan yaşlanma belirtilerinden ve zamane çocuklarının çıldırtıcı playlistlerinden bahsediyoruz."
+description: yaşlanıyor olduğunuzu nasıl anlarsınız? ya da eğer bu bahsedeceğim belirtiler sizde de varsa kulübe hoşgeldiniz. bununla beraber tüm belirtilere inat, size genç işi bazı müzikler de dinleteceğim."
+duration: "6:47" 
+length: "407"
+explicit: "no" 
+keywords: yaşlanma, children songs, komedi, podcast"
+block: "no" 
+---
+
+blog metni
