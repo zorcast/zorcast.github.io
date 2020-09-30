@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sinir bozan sosyal medya kaliplari"
+title: "sik sorulan sorular- frequently asked questions"
 date: 2020-09-30 15:25:00 +3000
 file: https://archive.org/download/zorcast/ep3.mp3
 summary: "bu bölümde bir görme engelli olarak en sık karşılaştığım sorulara yanıt veriyorum."
