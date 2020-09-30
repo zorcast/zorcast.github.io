@@ -12,7 +12,5 @@ keywords: abartı, korku, hacıyatmaz, Tracy Chapman, Michael Jackson, RIANNA, B
 block: "no" 
 ---
 
-blog metni
----
 
 sizce de bazı şeyleri biraz abartmıyor muyuz? ve yine sizce de çocukken çok fazla korkmadık mı? ayrıca ben neden bu kadar bağırıyorum? haklı çıkmaya falan mı çalışıyorum?:)
